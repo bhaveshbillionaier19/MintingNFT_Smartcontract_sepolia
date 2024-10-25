@@ -10,7 +10,7 @@ contract GameItem is ERC721URIStorage {
     constructor() ERC721("GameItem", "ITM") {}
    
    
-    //awarditem in mintnft function
+    
 
 
 
